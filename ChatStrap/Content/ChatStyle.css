@@ -1,15 +1,10 @@
-﻿body
-{
-    padding: 0px;
-    margin: 0px;
-}
-
+﻿
 #header
 {
     padding: 20px;
-    background-color: #d7e5e4;
-    border-bottom: #5f9482 solid 2px;
-    color: #1e4638;
+    background-color: cornflowerblue;
+    border-bottom: #0094ff 2px;
+    color: wheat;
     font-size: 24px;
 }
 
@@ -32,7 +27,7 @@
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
-    border: solid 2px #5f9482;
+    border: solid 2px #0094ff;
     color: #1e4638;
 }
 
@@ -62,7 +57,8 @@
         font-size: 16px;
         font-weight: bold;
         padding: 8px;
-        background-color: #d7e5e4;
+        background-color: cornflowerblue;
+        color: wheat;
         border-bottom: solid 1px #5f9482;
     }
 
